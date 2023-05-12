@@ -1,3 +1,0 @@
-# knowledge-react
-
-Knowledge React
